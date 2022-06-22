@@ -1,2 +1,2 @@
-# curriculo-grazi
+
 Meu Curriculo
